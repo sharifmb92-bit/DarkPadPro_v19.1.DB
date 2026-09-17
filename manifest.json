@@ -1,0 +1,18 @@
+{
+  "name": "DarkPad Pro v 19.1",
+  "short_name": "DarkPad",
+  "description": "Bloc de notas profesional y seguimiento de turnos para conductores.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050a0f",
+  "theme_color": "#050a0f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
